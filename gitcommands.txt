@@ -1,0 +1,6 @@
+git add .   --add everything
+
+
+git commit -m "message"  --commit changes
+
+git push origin [your branch name]  --push changes to your branch
